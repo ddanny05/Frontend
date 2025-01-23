@@ -5,6 +5,7 @@ const Navbar = () => {
            <Link href="/Categorias">
            Categorias           
            </Link>
+           
             <Link href="/Productos">
             Productos           
             </Link>

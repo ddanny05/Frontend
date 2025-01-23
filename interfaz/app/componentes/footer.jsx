@@ -5,6 +5,7 @@ const Footer = () => {
            <Link href="/Categorias">
            CATEGORIA           
            </Link>
+           
             <Link href="/Productos">
             PRODUCTOS           
             </Link>

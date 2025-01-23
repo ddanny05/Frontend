@@ -1,5 +1,5 @@
 export const metadata = {
-    title: "layout de titulo categorias",
+    title: "layout de titulo categorias 1",
     description: "aqui estan todas las categorias",
   };
 
@@ -9,7 +9,7 @@ export default function CategoriasLayout ({children}){
     return (
         <>
 
-      <Navbar2/>
+        <Navbar2/>
         {children}
         </>
     )

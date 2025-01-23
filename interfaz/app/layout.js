@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Nuestro primer sitio en nextjs",
+  title: "sitio web diseñando con septimo sitemas",
   description: "construido con django y nextjs",
 };
 
